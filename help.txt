@@ -1,0 +1,9 @@
+1. User login
+	
+	user name: dhiman
+	password: 12345
+
+2. Admin login
+
+	user name: admin
+	password: admin
